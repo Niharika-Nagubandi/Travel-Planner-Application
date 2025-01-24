@@ -24,8 +24,10 @@ The Travel Planner Application is a desktop-based software that helps users effi
 - GUI powered by Tkinter for a user-friendly experience.
 - Image integration for destinations and attractions.
 ## Technologies Used
-#### Frontend: tkinter (GUI library for Python)
-#### Backend: MySQL for database management
+#### Frontend: 
+tkinter (GUI library for Python)
+#### Backend:
+MySQL for database management
 ### Libraries/Modules:
 - mysql-connector for database connection
 - fpdf for PDF report generation
